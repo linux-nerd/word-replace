@@ -6,7 +6,12 @@ word-replace.js is inspired from Python's format method on string object.
 Installation
 -----------
 
-Download word-replace.js and place the file in your working folder. Include word-replace.js in your script tag.
+1. Get word-replace in one of the following ways:
+  - Download word-replace.js and place the file in your working folder.
+  - **Bower**
+    - ```bower install word-replace```
+
+2. Include word-replace.js in your script tag.
 
     <script src="path/to/replace-word.js"></script>
 
