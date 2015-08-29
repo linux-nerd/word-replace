@@ -7,7 +7,7 @@ Installation
 -----------
 
 1. Get word-replace in one of the following ways:
-  - **Download** word-replace.js and place the file in your working folder.
+  - **Download** replace-word.js and place the file in your working folder.
   - **Bower**
     - ```bower install word-replace```
   - **CDN**
