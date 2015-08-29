@@ -13,7 +13,7 @@ Installation
 
 2. Include word-replace.js in your script tag.
 
-    <script src="path/to/replace-word.js"></script>
+  ``` <script src="path/to/replace-word.js"></script> ```
 
 
 Usage
