@@ -7,11 +7,11 @@ Installation
 -----------
 
 1. Get word-replace in one of the following ways:
-  - **Download** replace-word.js and place the file in your working folder.
+  - Download word-replace.js and place the file in your working folder.
   - **Bower**
     - ```bower install word-replace```
-  - **CDN**
-    - url ``` http://cdn.abhishekprakash.com/word-replace/replace-word.js ```
+  - **NPM**
+    - ```npm install word-replace  ```
 
 2. Include word-replace.js in your script tag.
 
@@ -22,3 +22,8 @@ Usage
 -----
 
     var formattedString = "hi $0 $1 $2 $3.".format(["pk", "bk", "ck", "dk"]); // hi pk bk ck dk.
+
+For Nodejs
+----------
+
+  ``` require('word-replace')(); ```
