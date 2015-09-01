@@ -1,6 +1,6 @@
 {
   "name": "word-replace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pyhton has a format method on string object, which is very handy, when it comes to string manipulation. Javascript has no such method. If we have to deal with any string manipulation we have the ugly way of doing it - concatination. word-replace.js is inspired from Python's format method on string object.",
   "main": "replace-word.js",
   "keywords": [
