@@ -12,6 +12,8 @@ Installation
     - ```bower install word-replace```
   - **NPM**
     - ```npm install word-replace  ```
+  - **CDN**
+	- ``` http://cdn.abhishekprakash.com/word-replace/replace-word.js```
 
 2. Include word-replace.js in your script tag.
 
